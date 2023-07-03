@@ -1,0 +1,9 @@
+/home/yx/app_ws/install/_setup_util.py
+/home/yx/app_ws/install/env.sh
+/home/yx/app_ws/install/setup.bash
+/home/yx/app_ws/install/local_setup.bash
+/home/yx/app_ws/install/setup.sh
+/home/yx/app_ws/install/local_setup.sh
+/home/yx/app_ws/install/setup.zsh
+/home/yx/app_ws/install/local_setup.zsh
+/home/yx/app_ws/install/.rosinstall
